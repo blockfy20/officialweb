@@ -1078,7 +1078,7 @@ ul.tokenutility , ul.nftutility{
 }
 .roadmap::after {
   width: 6px;
-  height: 26%;
+  height: 70%;
   background: #00ccfd;
   position: absolute;
   top: 0;
@@ -1088,7 +1088,7 @@ ul.tokenutility , ul.nftutility{
 }
 .roadmap::before {
   width: 6px;
-    height: 64%;
+    height: 30%;
     background: #565660;
     position: absolute;
     top: 69%;
@@ -4940,7 +4940,7 @@ ul.tokenutility , ul.nftutility{
 }
 .pg-roadmap .roadmap::after {
   width: 6px;
-  height: 69%;
+  height: 33%;
   background: #00ccfd;
   position: absolute;
   top: 0;
