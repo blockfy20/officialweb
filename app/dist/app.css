@@ -1078,7 +1078,7 @@ ul.tokenutility , ul.nftutility{
 }
 .roadmap::after {
   width: 6px;
-  height: 70%;
+  height: 86%;
   background: #00ccfd;
   position: absolute;
   top: 0;
@@ -1088,10 +1088,10 @@ ul.tokenutility , ul.nftutility{
 }
 .roadmap::before {
   width: 6px;
-    height: 30%;
+    height: 22%;
     background: #565660;
     position: absolute;
-    top: 69%;
+    top: 86%;
     left: 49.8%;
     content: "";
     z-index: 0;
@@ -1104,7 +1104,7 @@ ul.tokenutility , ul.nftutility{
   margin-bottom: 115px;
 }
 .roadmap .box .rm-box::after, .roadmap .box .rm-box::before {
-  top: 50%;
+  top: 37%;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
@@ -4935,12 +4935,12 @@ ul.tokenutility , ul.nftutility{
   padding-bottom: 78px;
 }
 .pg-roadmap .roadmap::before {
-  height: 76%;
-  top:12%;
+  height: 63%;
+  top:32%;
 }
 .pg-roadmap .roadmap::after {
   width: 6px;
-  height: 33%;
+  height: 32%;
   background: #00ccfd;
   position: absolute;
   top: 0;
@@ -6106,7 +6106,7 @@ img.mfp-img {
   }
 
   .roadmap::before {
-    top: 47%;
+    top: 39%;
   }
 
   .roadmap .box.box-left .rm-box {
