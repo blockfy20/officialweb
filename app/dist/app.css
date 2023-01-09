@@ -1048,8 +1048,21 @@ ul.tokenutility , ul.nftutility{
   box-shadow: 0 0px 12px 0 #FA10E3;
 
 }
+
+#faq .box-text:hover{
+  box-shadow: 0 0px 12px 0 transparent;
+
+}
+
+#faq .corner-box{
+  box-shadow: 0 0px 6px 0 transparent;
+}
+
+#faq .box-text{
+  background: transparent;
+}
 .box-text .h7 {
-  text-transform: capitalize;
+  text-transform: none;
   margin-bottom: 16px;
 }
 .box-text p {
@@ -5001,6 +5014,9 @@ ul.tokenutility , ul.nftutility{
 }
 .pg-roadmap2 .tf-section.tf-roadmap .roadmap.style2.style3 .box.style .rm-box .corner-box {
   background: #13182b;
+}
+.corner-box::before, .corner-box::after {
+  background: transparent;
 }
 .pg-roadmap2 .tf-section.tf-roadmap .roadmap.style2.style3 .box.style .rm-box .corner-box::after, .pg-roadmap2 .tf-section.tf-roadmap .roadmap.style2.style3 .box.style .rm-box .corner-box::before {
   background: #13182b;
