@@ -7199,3 +7199,7 @@ input[type=color]::placeholder {
     margin: 0 auto;
   }
 /*# sourceMappingURL=app.css.map */
+
+#footer .footer-main .heading{
+  text-transform: uppercase;
+}
