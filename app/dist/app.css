@@ -4955,7 +4955,7 @@ ul.tokenutility , ul.nftutility{
 }
 .pg-roadmap .roadmap::after {
   width: 6px;
-  height: 34%;
+  height: 46%;
   background: #00ccfd;
   position: absolute;
   top: 0;
@@ -6738,7 +6738,7 @@ h1,
 
 h2,
 .h2 {
-  font-size: 64px;
+  font-size: 36px;
   line-height: 1.25;
 }
 
